@@ -12,3 +12,8 @@
 |lessons.md|Key takeaways|
 |flags.md|Retrieved flags|
 |credentials.md|Passwords/Hashes/Keys|
+
+### Current Machines
+
+[Active](https://github.com/georgiegonesouth/HTB-WRITEUPS/tree/main/Active)
+[Forest](https://github.com/georgiegonesouth/HTB-WRITEUPS/tree/main/Forest)
