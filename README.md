@@ -15,5 +15,5 @@
 
 ### Current Machines
 
-[Active](https://github.com/georgiegonesouth/HTB-WRITEUPS/tree/main/Active)
-[Forest](https://github.com/georgiegonesouth/HTB-WRITEUPS/tree/main/Forest)
+- [Active](https://github.com/georgiegonesouth/HTB-WRITEUPS/tree/main/Active)
+- [Forest](https://github.com/georgiegonesouth/HTB-WRITEUPS/tree/main/Forest)
